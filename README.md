@@ -1,7 +1,6 @@
 # counter
 
-Creazione di un semplice Counter realizzato con Html, Css e Javascript, con funzioni di decremento, incremento e reset.
-L
+Creazione di un semplice Counter realizzato con Html, Css, Bootstrap e Javascript, con funzioni di decremento, incremento e reset.
 
 
-![counter](https://user-images.githubusercontent.com/102250096/161580033-8e332449-e22a-4cfe-b7d6-2c1669823778.png)
+![counter](https://user-images.githubusercontent.com/102250096/162625284-d1d0a7f9-9e08-43a1-9009-0224012850e9.png)
